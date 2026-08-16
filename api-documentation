@@ -1,0 +1,26 @@
+</>Markdown
+
+# Users API
+
+## Overview
+
+The Users API allows applications to retrieve information about users.
+
+## Get All Users
+
+### Request
+
+GET /users
+
+### Description
+
+Retrieves a list of users.
+
+### Example Response
+
+```json
+{
+  "id": 101,
+  "name": "Ragu",
+  "role": "Technical Writer"
+}
