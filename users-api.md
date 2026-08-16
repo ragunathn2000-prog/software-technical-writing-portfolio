@@ -1,2 +1,7 @@
 </> Markdown 
-'Get /users'
+'''json
+{
+"id": 101'
+"name": "Ragu"
+}
+'''
