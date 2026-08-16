@@ -1,2 +1,5 @@
 </> Markdown 
-*Note: This API is available authorized users.
+- Authentication
+- request
+- response
+- error codes
