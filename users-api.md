@@ -5,3 +5,7 @@
 "name": "Ragu"
 }
 '''
+| code | Description |
+|---| --- |
+| 200 | Success |
+| 404 | Not found |
