@@ -1,2 +1,2 @@
 </> Markdown 
-*Note: Ragu is talented.
+*Note: This API is available authorized users.
