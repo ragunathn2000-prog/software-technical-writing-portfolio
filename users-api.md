@@ -9,3 +9,10 @@
 |---| --- |
 | 200 | Success |
 | 404 | Not found |
+## Authentication 
+The API requires an API key for authentication.
+### Request Header
+Authorization : Bearer YOUR_API_KEY
+### Example 
+''' text 
+Authentication: Bearer abc123
