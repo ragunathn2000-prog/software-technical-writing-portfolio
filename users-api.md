@@ -2,4 +2,4 @@
 # Users API
 ## Overview 
 ### Request
-**Important:** Authentication is required
+**Important:** Authen**tication is required**
